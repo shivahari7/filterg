@@ -1,0 +1,15 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# (c) ACE 
+
+import os
+
+class Config(object):
+    # get a token from @BotFather
+    pass
+    """
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "5735888887:AAEqjab1kHPaQvvSaa8Qqv5yV_7l7AqcAwI")
+    API_ID = int(os.environ["API_ID", 1654363]
+    API_HASH = os.environ["API_HASH", "26b911420edb5ceb8f370f21f5eb2684"]
+    AUTH_USERS = "435946586 """
+
