@@ -30,6 +30,7 @@ import time
 from p_bar import progress_bar
 import aiohttp
 import tgcrypto
+import aiofiles
 import concurrent.futures
 import subprocess
 from pyrogram.types import Message
