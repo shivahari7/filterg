@@ -27,11 +27,11 @@ DEF_FORMAT = "480"
 from dotenv import load_dotenv
 load_dotenv()
 os.makedirs("./downloads", exist_ok=True)
-API_ID = 10351682
-API_HASH = "ca0d92a75940dc55419593c5d29f9b6c"
-BOT_TOKEN = "6004826616:AAG4p1xEHdoKeDDuB2_8QtZsTMB25wZEBOI"
-AUTH_USERS = 2122250604
-sudo_users = [2122250604]
+API_ID = 20937540
+API_HASH = "bf35fcc80dcea68066ec08b588cde18d"
+BOT_TOKEN = "6180388956:AAHVTq_AOYoRkoNegtyh-Tu3sWOAX0OzXTM"
+AUTH_USERS = 2049857696
+sudo_users = [2049857696]
 bot = Client(
     "bot",
     bot_token=BOT_TOKEN,
